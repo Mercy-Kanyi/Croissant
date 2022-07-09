@@ -1,5 +1,6 @@
 body {
 	text-align: center;
+	background: radial-gradient(961px at 1.9% 5%, rgb(242, 241, 36) 0%, rgb(11, 236, 218) 90%);
 }
 footer {
 	margin: 20px;
